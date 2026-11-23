@@ -1,10 +1,12 @@
 # KEI.database
-用Gemini搭的网站，大概只有pc端使用体验好一些，手机端理论也能用但是我没测过
+用Gemini搭的网站，用于搭建自己的动画/游戏评分库\
+大概只有pc端使用体验好一些，手机端理论也能用但是我没测过\
+你可以在[KEI.database](https://github.com/ZercoIST/KEI.database/deployments/github-pages)在线使用本网站，也可以从[Releases](https://github.com/ZercoIST/KEI.database/releases)页面下载到本地使用
 ### 使用时请注意及时备份，在设置菜单中导出本地文件
-\
-主要功能
+    
+### 主要功能
 ## 档案
-评分库，网站的主要功能，也可用于管理进度\
+自定义评分库，本网站的主要功能，也可用于管理进度\
 支持从bangumi导入条目、自定义评分和评级标准等，评分标准和评级标准可以在设置中修改
 ## TierList制作器
 制作TierList\
